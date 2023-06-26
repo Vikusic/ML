@@ -17,3 +17,5 @@ https://colab.research.google.com/drive/1rc1-s32Ih9fRPkdb-XIMvItaj3JM5bDR?usp=sh
 что-то для 5-ой лабы было: https://colab.research.google.com/drive/1jV75joOMU40w4z3AhXs4jj1nTeWyVCp8?usp=sharing
 
 ещё 6-ая: https://drive.google.com/file/d/1jcQkLwAAMNSPmCfDzZ7bExTku0yqIFC0/view?usp=sharing
+
+https://github.com/IamVOC/MLBasics/blob/1-Preprocessing/README.md
